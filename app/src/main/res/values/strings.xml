@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Plural Tasks</string>
+    <string name="title_activity_task_list">TaskListActivity</string>
+</resources>
